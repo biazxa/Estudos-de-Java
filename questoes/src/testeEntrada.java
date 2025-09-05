@@ -1,5 +1,3 @@
-package curso_programacao;
-
 import java.util.Scanner;
 
 public class testeEntrada {

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Estoque/Estoque.iml" filepath="$PROJECT_DIR$/Estoque/Estoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudos-de-Java.iml" filepath="$PROJECT_DIR$/.idea/Estudos-de-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pedidos/Pedidos.iml" filepath="$PROJECT_DIR$/Pedidos/Pedidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao01/Questao01.iml" filepath="$PROJECT_DIR$/Questao01/Questao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao2/Questao2.iml" filepath="$PROJECT_DIR$/Questao2/Questao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questao3/Questao3.iml" filepath="$PROJECT_DIR$/Questao3/Questao3.iml" />
       <module fileurl="file://$PROJECT_DIR$/entities/entities.iml" filepath="$PROJECT_DIR$/entities/entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/questoes/questoes.iml" filepath="$PROJECT_DIR$/questoes/questoes.iml" />
